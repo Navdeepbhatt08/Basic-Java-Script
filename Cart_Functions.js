@@ -1,4 +1,3 @@
-
 function AddCart(...num1)
 {
     return num1;

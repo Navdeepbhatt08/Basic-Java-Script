@@ -1,0 +1,8 @@
+.mainContainer
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+}
