@@ -1,5 +1,5 @@
-document.getElementById('Heading').addEventListener('click',function(e){
-   console.log("Heading Clicked...")
-    console.log(e);
-})
+var a = document.getElementById("Heading");
 
+a.addEventListener("click", function () {
+  console.log("Heading Clicked...");
+});
