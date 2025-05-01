@@ -1,7 +1,5 @@
-function addStr()
-{
-    return str +'4'
-
+function addStr() {
+  return str + "4";
 }
-const str = 'NAVDEEP'
-console.log(addStr(str))
+const str = "NAVDEEP";
+console.log(addStr(str));

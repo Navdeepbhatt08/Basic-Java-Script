@@ -1,0 +1,41 @@
+.main
+{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    width: 100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.main span
+{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    margin: 30px;  
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+#red
+{
+    background:red;
+    text-align: center;
+}
+#blue
+{
+    background:blue;
+}
+#green
+{
+    background:green;
+}
+#yellow
+{
+    background:yellow;
+}

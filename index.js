@@ -16,4 +16,3 @@ btn.addEventListener("click", () => {
     flag--;
   }
 });
-
