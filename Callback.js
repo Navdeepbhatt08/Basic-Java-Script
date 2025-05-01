@@ -4,7 +4,7 @@ setTimeout(function () {
 
 function x(y) {
   console.log(`x time without Delay`);
-   y()
+  y();
 }
 x(function y() {
   console.log(`Without Delay..... `);
