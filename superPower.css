@@ -1,0 +1,27 @@
+* {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+#container {
+    margin: 10px;
+    padding: 10px;
+    height: 300px;
+    width: 200px;
+    background: blue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+}
+
+button {
+    background: gray;
+    padding: 6px;
+    border-radius: 3px;
+    border-style: none;
+    font-size: 30px;
+    cursor: pointer;
+}
